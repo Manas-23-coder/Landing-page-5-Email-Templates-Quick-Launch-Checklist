@@ -24,7 +24,7 @@
       <h1>Get a High-Converting Landing Page + 5 Emails — Delivered in 72 Hours</h1>
       <p class="lead">I build a hosted landing page, 5 ready-to-send emails, and a one-page launch checklist to start getting leads or sales fast. Perfect for restaurants, coaches, real estate, and local stores.</p>
       <div class="price">$1,500 — <strong>50% deposit to start</strong></div>
-      <a class="cta" href="https://paypal.me/YourName/750" target="_blank">Pay $750 Deposit (PayPal)</a>
+      <a class="cta" href="https://www.paypal.com/paypalme/ManasDhawale/750" target="_blank">Pay $750 Deposit (PayPal)</a>
       <div class="features">
         <div class="feature"><strong>What you get</strong>
           <ul>
@@ -46,7 +46,7 @@
       <p class="small">Questions? DM me on LinkedIn or reply to this email. Final delivery includes HTML/CSS files & PDF deliverables.</p>
     </div>
 
-    <footer>© YourName • 72-Hour Launch Kit</footer>
+    <footer>© Landing Page Bud • 72-Hour Launch Kit</footer>
   </div>
 </body>
 </html>
